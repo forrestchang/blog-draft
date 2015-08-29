@@ -1,0 +1,7 @@
+#+TITLE: Tisoga's Home Page
+
+* About
+因为目前博客还没有内容，所以暂时就先不写About了。有的笔记写得还不完整，所以暂时先不放到博客上来。
+* Blog
+- <2015-08-29 Sat> [[file:misc/rebuild-blog.org][重新组织了一下博客]]
+- <2015-07-20 Mon> [[file:emacs/how-to-use-org-mode-build-blog.org][使用Emacs org-mode 与GitHub Pages来搭建博客]]
