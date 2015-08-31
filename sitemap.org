@@ -1,5 +1,8 @@
 #+TITLE: Sitemap
 
+   + notes
+     + collections
+       + [[file:notes/collections/bookmark.org][2015-08-31 Bookmarks]]
    + misc
      + [[file:misc/rebuild-blog.org][2015-08-29 重新组织了一下博客]]
    + emacs
