@@ -41,7 +41,6 @@
 - [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
 - [[http://www.newsmth.net/bbsdoc.php?board=Emacs&ftype=0][水木清华 Emacs编辑器]]
 - [[http://www.emacswiki.org/][Emacs Wiki]]
-- 
 
 * iOS开发
 - [[http://dev.swiftguide.cn/][Swift语言指南]]
@@ -84,8 +83,7 @@
 - [[http://codeforces.com/][Code Forces]]
 
 * 日语学习
-- [[http://www.wanmen.org/courses/YYRYYY][万门大学 日语语音入门]] - 用这个教程学完了五十音图。
-- 
+- [[http://www.wanmen.org/courses/YYRYYY][万门大学 日语语音入门]] - 用这个教程学完了五十音图。 
 * Music
 - [[http://www.52aac.com/][52AAC]] - 一个AAC音乐资源下载站。
 * Game
