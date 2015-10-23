@@ -1,12 +1,7 @@
 #+TITLE: Sitemap
 
-   + personal
-     + [[file:personal/summarize-the-first-year-at-university.org][2015-09-08 大一，你曾是少年]]
-   + notes
-     + collections
-       + [[file:notes/collections/bookmark.org][2015-08-31 Bookmarks]]
    + misc
      + [[file:misc/rebuild-blog.org][2015-08-29 重新组织了一下博客]]
    + emacs
      + [[file:emacs/how-to-use-org-mode-build-blog.org][2015-08-29 使用Emacs org-mode + GitHub Pages来写博客]]
-   + [[file:index.org][2015-08-29 Tisoga's Home Page]]
+   + [[file:index.org][2015-10-23 Tisoga's Home Page]]
