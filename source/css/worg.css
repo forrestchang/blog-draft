@@ -1,11 +1,11 @@
-/* @import url(http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans+Mono|Droid+Serif); */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans+Mono|Droid+Serif);
 
 @media all
 {
     html {
   margin: 0;
   font: 300 .9em/1.6em "Droid Serif", Cambria, Georgia, "DejaVu Serif", serif;
-  /*background-image: url(http://orgmode.org/img/org-mode-unicorn-logo-worg.png);*/
+  background-image: url(http://orgmode.org/img/org-mode-unicorn-logo-worg.png);
   background-attachment: fixed;
   background-position: right bottom;
   background-repeat: no-repeat;
@@ -29,9 +29,8 @@
   /* box-shadow: 3px 3px 5px #888; */
     }
     body .title {
-      text-align: left;
-      margin-left: 0px;
-      font-size: 22pt;
+  margin-left: 0px;
+  font-size: 22pt;
     }
 
     #org-div-home-and-up{
@@ -936,9 +935,12 @@ content: "*** "
 
     #postamble {
   font-size: 75%;
-  text-align: center;
+  min-width: 700px;
+  max-width: 80%;
+  margin-left: 20px;
+  margin-top: 10px;
   padding: .2em;
-  /*border: 1px solid gray;*/
+  border: 1px solid gray;
   background-color: #ffffff;
   z-index: -1000;
     }
