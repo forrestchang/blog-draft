@@ -4,4 +4,5 @@
      + [[file:misc/rebuild-blog.org][2015-12-05 重新组织了一下博客]]
    + emacs
      + [[file:emacs/how-to-use-org-mode-build-blog.org][2015-08-29 使用Emacs org-mode + GitHub Pages来写博客]]
+   + [[file:test.org][2015-12-05 Test]]
    + [[file:index.org][2015-12-05 Tisoga's Home Page]]
