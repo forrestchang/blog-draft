@@ -9,14 +9,6 @@
 - [[https://github.com/forrestchang/blog-draft][Drafts]]
 * About
 ** About Me
-I am a sophomore in Computer Science in Dalian Nationality University. I wrote my first line of code in the second year of middle school. Forrest Chang is my English name. My Chinese name is 張佳圓（Jiayuan Zhang）. The most commonly ID I used on the Internet is @Tisoga. If you want to meet me and drink some tea, please contact me. I am glad to see you. :)
-
-My professional interests include functional programming, machine learning, algorithms, complier and mathematics. I also want to develop useful applications so I read something about iOS development.
-
-I have no favorite programming language. I mostly use Python, Scheme, Java, C, C++ and Swift to write software and programs.
-
-I use Emacs and also know how to use Vim (but I don’t like it very much).
-
 You can find me by the following ways:
 - email: [[mailto:forrestchang7@gmail.com]]
 - twitter: [[https://twitter.com/tisoga]]
