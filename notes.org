@@ -1,0 +1,5 @@
+#+Title: Notes
+
+* Tech
+** Emacs
+- 2015-07-20 [[file:emacs/how-to-use-org-mode-build-blog.org][使用Emacs org-mode 与GitHub Pages来搭建博客]]
