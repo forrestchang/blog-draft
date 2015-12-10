@@ -2,6 +2,6 @@
 
    + emacs
      + [[file:emacs/how-to-use-org-mode-build-blog.org][2015-08-29 使用Emacs org-mode + GitHub Pages来写博客]]
+   + [[file:index.org][2015-12-10 Tisoga's Blog]]
    + [[file:notes.org][2015-12-10 Notes]]
    + [[file:blog-post.org][2015-12-10 Blog posts]]
-   + [[file:index.org][2015-12-08 Tisoga's Blog]]
