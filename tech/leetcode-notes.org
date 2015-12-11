@@ -44,3 +44,40 @@ Your function should return length = 2, with the first two elements of nums bein
 需要注意的是Python中的list过程会生成一个新的数组，而不是直接在原数组上进行操作，这不符合题目的要求。
 
 第二种方法比第一种方法快一些，但是还是没有达到LeetCode上最快的方法，更好地算法还需要再想一想。
+** Remove Element [Easy]
+#+BEGIN_EXAMPLE
+Given an array and a value, remove all instances of that value in place and return the new length.
+
+The order of elements can be changed. It doesn't matter what you leave beyond the new length.
+#+END_EXAMPLE
+
+这道题和 =Remove Duplicates from Sorted Array= 差不多，都可以用两个index来解决，代码如下:
+
+#+BEGIN_SRC python
+  def removeElement(nums, val):
+      if len(nums) == 0:
+          return 0
+      # 因为要把所有符合条件的val删掉，所以要从第一个开始扫描
+      back = -1
+      front = 0
+      for front in range(0, len(nums)):
+          if nums[front] != val:
+              nums[back + 1] = nums[front]
+              back += 1
+      return back + 1
+#+END_SRC
+
+另外一种方法就是使用Python内置的一些函数来完成，但是题目要求in place，所以这种方法不太符合要求（但是可以通过），代码如下：
+
+#+BEGIN_SRC python
+  def removeElement(nums, val):
+      if len(nums) == 0:
+          return 0
+      temp = []
+      for value in nums:
+          if value != val:
+              temp.append(value)
+      nums[:] = temp
+      return len(nums)
+
+#+END_SRC
