@@ -1,7 +1,9 @@
 #+TITLE: Sitemap
 
+   + tech
+     + [[file:tech/leetcode-notes.org][2015-12-11 LeetCode 解题笔记]]
    + emacs
      + [[file:emacs/how-to-use-org-mode-build-blog.org][2015-08-29 使用Emacs org-mode + GitHub Pages来写博客]]
-   + [[file:notes.org][2015-12-10 Notes]]
-   + [[file:index.org][2015-12-10 Tisoga's Blog]]
+   + [[file:notes.org][2015-12-11 Notes]]
+   + [[file:index.org][2015-12-11 Tisoga's Blog]]
    + [[file:blog-post.org][2015-12-10 Blog posts]]

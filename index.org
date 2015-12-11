@@ -2,6 +2,7 @@
 
 * Quick Start
 ** New
+- 2015-12-11 [[file:tech/leetcode-notes.org][LeetCode 解题笔记]]
 - 2015-11-09 [[file:tech/6.006-notes-1.pdf][MIT CS 6.006 学习笔记]]
 - 2015-10-31 [[file:tech/squirrel-recommended.html][极客的输入法：Squirrel（鼠须管）]]
 - 2015-07-20 [[file:emacs/how-to-use-org-mode-build-blog.org][使用Emacs org-mode 与GitHub Pages来搭建博客]]
