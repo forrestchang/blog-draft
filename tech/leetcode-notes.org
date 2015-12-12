@@ -1,4 +1,13 @@
 #+Title: LeetCode 解题笔记
+
+虽说最近在看《算法导论》和刷MIT CS 6.006，但是练习的东西比较少。有些算法能够用伪代码写出来，但是用用代码实现还是会遇到各种各样的问题，在学校的OJ上做题也不是很理想。所以打算在LeetCode上练习一下，也不规定多长时间必须刷完，每天就做个一到两题。不过为了学习的目的，还是给自己提几点要求：
+
+- 算法先自己想，AC了之后再去参考别人的代码。可能有些题目想不出来方法，就先放着，多想几天，没有AC之前坚决不看答案。
+- 时间尽量刷低，排名越往前越好，多考虑特殊情况。
+- 先想出解决问题的方法，优化可以在AC了之后慢慢来。
+
+使用 =Python 3= 来实现，代码放在我的 [[https://github.com/forrestchang/leetcode][GitHub]] 上课，有需要的可以参考一下（代码写得比较烂，欢迎提issue）。
+
 * Array
 ** Remove Duplicates from Sorted Array [Easy]
 #+BEGIN_EXAMPLE
@@ -81,3 +90,6 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
       return len(nums)
 
 #+END_SRC
+* Log
+笔记更新记录：
+

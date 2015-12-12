@@ -1,1 +1,6 @@
 #+Title: Blog posts
+
+- 2015-10-31 [[file:tech/squirrel-recommended.html][极客的输入法：Squirrel（鼠须管）]]
+- 2015-07-20 [[file:emacs/how-to-use-org-mode-build-blog.org][使用Emacs org-mode 与GitHub Pages来搭建博客]]
+
+
