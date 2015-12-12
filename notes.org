@@ -4,3 +4,7 @@
 ** Algorithms
 - 2015-12-11 [[file:tech/leetcode-notes.org][LeetCode 解题笔记]]
 - 2015-11-09 [[file:tech/6.006-notes-1.pdf][MIT CS 6.006 学习笔记]]
+- 2015-08-28 [[http://www.zhihu.com/question/34605825/answer/60604188?group_id=659010083979538432][算法与数据结构学习资料推荐]]
+** Misc
+- 2015-11-23 [[http://www.zhihu.com/question/37782912/answer/73511038][如何阅读CS专业书籍（个人经验）]]
+- 2015-10-26 [[http://www.zhihu.com/question/36546814/answer/69161024][一些提高效率的软件]]
