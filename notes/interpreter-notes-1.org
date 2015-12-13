@@ -93,3 +93,11 @@ ok，现在可以来实现Interpreter类了。
           raise Exception('Error parsing input')
 
 #+END_SRC
+* 参考资料
+- 虚拟机随谈（一）：解释器，树遍历解释器，基于栈与基于寄存器，大杂烩：http://rednaxelafx.iteye.com/blog/492667
+- Interpreter (computing)：https://en.wikipedia.org/wiki/Interpreter_(computing)
+- Compiler：https://en.wikipedia.org/wiki/Compiler
+- x86 assembly language：https://en.wikipedia.org/wiki/X86_assembly_language
+- Nuitka：http://nuitka.net/pages/overview.html
+- Symbol table：https://en.wikipedia.org/wiki/Symbol_table
+- Let’s Build A Simple Interpreter. Part 1：http://ruslanspivak.com/lsbasi-part1/
